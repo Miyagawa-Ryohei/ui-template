@@ -6,7 +6,7 @@
     "@material-ui/icons": "^4.9.1",
     "clsx": "^1.1.1",
     "inversify": "^5.0.1",
-    "marked": "^1.1.0",
+    "marked": "^4.0.10",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-router": "^5.2.0",
